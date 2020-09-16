@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Procuro alguem que queira se juntar a mim para ddesenvolvermos uma aplicação em Java.
 - 💬 Ask me about ... Gosto de sempre resolver problemas atraves da programação e aprender coisas novas, ...novas tecnologias!
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... Curioso, criativo, detalhista, perfeccionista...!
+- 😄 Pronouns: ... Curioso, criativo, proativo detalhista, perfeccionista...!
 -->
