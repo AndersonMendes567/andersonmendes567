@@ -1,15 +1,10 @@
-### Hi there 👋
+### Olá!👋 Anderson Mendes, 19 anos, Amante de tecnologia! 
 
-<!--
-**AndersonMendes567/AndersonMendes567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou TRABALHANDO na empresa ... Super Bom Hipermercado.
+- 🌱 Atualmente estou APRENDENDO ... Linguagem de programação Java, Git e Git Hub, graduando Analise e Desenvolvimento de Sistemas.
+- 👯 Procuro COLABORAR ... com um projeto pequeno na linguagem Java.
+- 🤔 Estou PRECISANDO de ... alguém que queira se juntar a mim para ddesenvolvermos uma aplicação em Java.
+- 💬 Mais sobre ME ... Gosto de sempre resolver problemas atraves da programação e aprender coisas novas, ...novas tecnologias!
+- 📫 Como ME ENCONTRAR: ... E-mail: mendesanderson567@gmail.com ; Meu perfil no Linkedin: https://www.linkedin.com/in/anderson-mendes-602b891a4/ ; Meu perfil no Gi Hub: https://github.com/AndersonMendes567/AndersonMendes567/
+- 😄 Pronomes que ME DEFINE: ... Curioso, criativo, proativo, detalhista, perfeccionista...!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Super Bom Hipermercado.
-- 🌱 I’m currently learning ... Linguagem de programação Java, Git e Git Hub, graduando Analise e Desenvolvimento de Sistemas.
-- 👯 I’m looking to collaborate on ... Projetos simples e pequeno que envolva Java.
-- 🤔 I’m looking for help with ... Procuro alguem que queira se juntar a mim para ddesenvolvermos uma aplicação em Java.
-- 💬 Ask me about ... Gosto de sempre resolver problemas atraves da programação e aprender coisas novas, ...novas tecnologias!
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... Curioso, criativo, proativo detalhista, perfeccionista...!
--->
