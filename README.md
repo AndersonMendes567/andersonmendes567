@@ -1,4 +1,4 @@
-### Olá!👋 Anderson Mendes, 19 anos, Amante de tecnologia! 
+### Olá!👋. Aqui é Anderson Mendes, 19 anos, Amante de tecnologia! 
 
 - 🔭 Atualmente estou TRABALHANDO na empresa ... Super Bom Hipermercado.
 - 🌱 Atualmente estou APRENDENDO ... Linguagem de programação Java, Git e Git Hub, graduando Analise e Desenvolvimento de Sistemas.
