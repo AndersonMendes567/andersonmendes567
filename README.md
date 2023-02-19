@@ -1,7 +1,7 @@
 ## Olá!👋 Aqui é Anderson Mendes, 22 anos, Amante de tecnologia! 
-- 🔭 Atualmente estou TRABALHANDO na empresa ... Super Bom Hipermercado.
-- 🌱 Atualmente estou APRENDENDO ... Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Front-End.
-- 🤔 Estou PRECISANDO de ... uma oportunidade para trabalhar como estagiário, trainner ou júnior em desenvolvimento Front-End.
+- 🔭 Atualmente estou TRABALHANDO na empresa ... DataSet Sistemas .
+- 🌱 Atualmente estou APRENDENDO ... Desenvolvimento Web e Mobile .
+- 🤔 Estou PRECISANDO de ... Novas oportunidades.
 - 😄 Pronomes que ME DEFINEM ... Curioso, criativo, proativo, detalhista, espírito científico...!
 
 ##
